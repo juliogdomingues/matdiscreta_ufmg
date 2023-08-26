@@ -1,0 +1,14 @@
+O trabalho foi desenvolvido em linguagem C, utilizando o editor de código Visual Studio Code em ambiente Windows. Optou-se pela implementação por meio de abordagem recursiva, como explicado na documentação.
+Se houver qualquer problema para rodar o programa, uma versão online já implementada do código pode ser acessada em: https://onlinegdb.com/1l4ifV_3y
+ 
+O arquivo main.c contém o código para geração dos 3 fractais solicitados.
+
+Na primeira linha do terminal, o usuário deve digitar o número do fractal correspondente:
+
+Para obter o fractal "floco de neve de onda quadrada de von Koch", digite 2;
+Para obter o fractal "preenchimento de espaço de Hilbert", digite 6;
+Para obter o fractal definido pelo aluno, digite 8.
+
+Nas linhas seguintes, o programa lê e armazena, respectivamente, o axioma, o ângulo (em graus) e a regra. O programa não verifica entradas incorretas para as linhas 2, 3 e 4, para evitar problemas de entradas em formatos diferentes (uma vez que tais dados já foram fornecidos na especificação do TP).
+
+Após o processamento, o programa gera dois arquivos de texto (em formato .txt). O arquivo fractal.txt apresenta as instruções para desenho do fractal em 4 linhas (uma para cada Estágio). O arquivo fractal_count.txt apresenta a contagem de cada um dos algarismos do fractal gerado, para cada Estágio.

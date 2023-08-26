@@ -1,0 +1,4 @@
+Estágio 1: -F+F+F-
+Estágio 2: -+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-
+Estágio 3: -+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-
+Estágio 4: -+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+-
